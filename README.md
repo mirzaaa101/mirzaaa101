@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Data Science"
 - 💞️ I’m looking to collaborate on your next "Data Science" projects
 - 📫 How to reach me:
--Email:mirzaabbasuddin2@gmail.com 
+-Email: mirzaabbasuddin2@gmail.com 
 
 <!---
 mirzaaa101/mirzaaa101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
