@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirza Abbas Uddin
+- 👋 Hi, I’m Mirza Abbas Uddin
 - 👀 I’m interested in "Data Science"
 - 💞️ I’m looking to collaborate on your next "Data Science" project
 - 📫 How to reach me:
