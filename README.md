@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirza Abbas Uddin
 - 👀 I’m interested in "Data Science"
-- 💞️ I’m looking to collaborate on your next "Data Science" projects
+- 💞️ I’m looking to collaborate on your next "Data Science" project
 - 📫 How to reach me:
 -Email: mirzaabbasuddin2@gmail.com 
 
