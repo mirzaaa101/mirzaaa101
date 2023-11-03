@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mirza Abbas Uddin
-- ## About Me 🙋‍♂️
+- # 👋 Hi, I’m Mirza Abbas Uddin
+## About Me 🙋‍♂️
  I'm passionate about Data Science and all things related to it. I love diving into data, extracting valuable insights, and creating data-driven solutions to real-world problems. If you share this passion or have an exciting Data Science project in mind, I'd love to collaborate with you! 🙌
 
  ## My Skills 🚀
@@ -20,7 +20,7 @@
 - Excel
 
   
-- ## Contact Information📩:
+## Contact Information📩:
 -Email: mirzaabbasuddin2@gmail.com
 
 <br>
