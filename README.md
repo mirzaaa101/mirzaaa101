@@ -5,7 +5,7 @@
  ## My Skills 🚀
 - Machine Learing
 - Data Science
-- Web Developement (Djnago)
+- Web Developement (Django)
 - # Languages
 - Python
 - HTML, CSS & JavaScript(Naive)
