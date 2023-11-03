@@ -4,13 +4,20 @@
 
  ## My Skills 🚀
 - Machine Learing
+- Scientific Research
 - Data Science
-- Web Developement (Django)
-- # Languages
+- Web Developement (Django & Bootstrap)
+- # Programming Languages
 - Python
 - HTML, CSS & JavaScript(Naive)
 - PHP
 - C/C++
+- # Database
+- MySQL
+- # Business Intelligence
+- Tableau
+- # Other
+- Excel
 
   
 - ## Contact Information📩:
