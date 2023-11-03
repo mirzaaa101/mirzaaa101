@@ -1,6 +1,13 @@
 - 👋 Hi, I’m Mirza Abbas Uddin
 - ## About Me 🙋‍♂️
  I'm passionate about Data Science and all things related to it. I love diving into data, extracting valuable insights, and creating data-driven solutions to real-world problems. If you share this passion or have an exciting Data Science project in mind, I'd love to collaborate with you! 🙌
+
+ ## My Skills 🚀
+
+- Python: 90% ![Python Progress](https://gist.github.com/mirzaaa101/your-gist-id/raw/progress-bar-python.png)
+- JavaScript: 50% ![JavaScript Progress](https://gist.github.com/mirzaaa101/your-gist-id/raw/progress-bar-js.png)
+
+  
 - ## Contact Information📩:
 -Email: mirzaabbasuddin2@gmail.com
 
