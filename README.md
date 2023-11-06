@@ -3,7 +3,7 @@
  I'm passionate about Machine Learing, Data Science and all things related to it. I love diving into data, extracting valuable insights, and creating data-driven solutions to real-world problems. If you share this passion or have an exciting Data Science project in mind, I'd love to collaborate with you! 🙌
 
  ## My Skills 🚀
-- Machine Learing
+- Machine Learning
 - Scientific Research
 - Data Science
 - Web Developement (Django & Bootstrap)
