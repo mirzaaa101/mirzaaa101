@@ -7,16 +7,16 @@
 - Scientific Research
 - Data Science
 - Web Developement (Django & Bootstrap)
-- # Programming Languages
+- ## Programming Languages
 - Python
 - HTML, CSS & JavaScript(Naive)
 - PHP
 - C/C++
-- # Database
+- ## Database
 - MySQL
-- # Business Intelligence
+- ## Business Intelligence
 - Tableau
-- # Other
+- ## Other
 - Excel
 
   
