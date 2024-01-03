@@ -6,11 +6,31 @@
 - Machine Learning
 - Scientific Research
 - Data Science
-- Web Developement (Django & Bootstrap)
+- Web Developement
+## Frameworks
+
+### Machine Learning
+
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
+
+### Natural Language Processing (NLP)
+
+- NLTK
+- SpaCy
+- Transformers (Hugging Face)
+
+### Web Development
+
+- Django (Backend)
+- Bootstrap (Frontend)
+
 - ## Programming Languages
 - Python
-- HTML, CSS & JavaScript(Naive)
 - PHP
+- JavaScript
 - C/C++
 - ## Database
 - MySQL
