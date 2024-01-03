@@ -7,37 +7,36 @@
 - Scientific Research
 - Data Science
 - Web Developement
-## Frameworks
-
-- #### Machine Learning
-
-- Scikit-learn
-- TensorFlow
-- Keras
-- PyTorch
-
-- #### Natural Language Processing (NLP)
-
-- NLTK
-- SpaCy
-- Transformers (Hugging Face)
-
-- #### Web Development
-
-- Django (Backend)
-- Bootstrap (Frontend)
 
 - ## Programming Languages
-- Python
-- PHP
-- JavaScript
-- C/C++
+  - Python
+  - PHP
+  - JavaScript
+  - C/C++
+  
+- ## Frameworks
+
+  #### Machine Learning
+  - Scikit-learn
+  - TensorFlow
+  - Keras
+  - PyTorch
+
+  #### Natural Language Processing (NLP)
+  - NLTK
+  - SpaCy
+  - Transformers (Hugging Face)
+
+  #### Web Development
+  - Django (Backend)
+  - Bootstrap (Frontend)
+  
 - ## Database
-- MySQL
+  - MySQL
 - ## Business Intelligence
-- Tableau
+  - Tableau
 - ## Other
-- Excel
+  - Excel
 
   
 ## Contact Information📩:
