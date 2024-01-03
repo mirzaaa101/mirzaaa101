@@ -9,20 +9,20 @@
 - Web Developement
 ## Frameworks
 
-### Machine Learning
+- #### Machine Learning
 
 - Scikit-learn
 - TensorFlow
 - Keras
 - PyTorch
 
-### Natural Language Processing (NLP)
+- #### Natural Language Processing (NLP)
 
 - NLTK
 - SpaCy
 - Transformers (Hugging Face)
 
-### Web Development
+- #### Web Development
 
 - Django (Backend)
 - Bootstrap (Frontend)
